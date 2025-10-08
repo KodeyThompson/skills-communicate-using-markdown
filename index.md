@@ -1,2 +1,2 @@
 # Hello World
-H1 Header Completion.
+![A cute Octocat image](https://octodex.github.com/images/yaktocat.png)
